@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593829200713",
+    "project_id": "gallery-6e2a9",
+    "storage_bucket": "gallery-6e2a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593829200713:android:2dc2f04a8be97ef66fd098",
+        "android_client_info": {
+          "package_name": "com.example.authentication_biometric"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvkLaJgFAepJxGV81-TKLp-LP6DqT9nAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
